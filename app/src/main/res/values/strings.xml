@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="pesquisa">Pesquise um filme</string>
+    <string name="qual_filme">Qual o filme de hoje?</string>
+</resources>
