@@ -5,7 +5,6 @@ para exibir as imagens de poster dos filmes, [GET DETAILS](https://developers.th
 <br>São utilizados conceitos da arquitetura MVVM onde são implementados: [Live Data](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br), Obervables, 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldjXr9hFgvwI9FN15ElL1tCkDfVf_VImdv6ifu5No4krUqR_J2-ochoC-0gQAvD_BwE&gclsrc=aw.ds), Repository e Client Structure.
 <br>Multiplas Views aplicadas em RecyclerView e paginação.
-<br>Passagem de dados entre activities usando Intent. Executors, Backgroud Threads e ThreadPools.
 <br>Para fazer a exibição dos posters utiliza-se a biblioteca [Glide](https://github.com/bumptech/glide).
 <br>É possível ainda fazer a busca por filmes na API através do Search View nativo.
 
