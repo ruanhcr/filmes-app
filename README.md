@@ -2,6 +2,9 @@
 App que exibe Filmes através da The Movie Database API, onde são feitas requisições [GET POPULAR](https://developers.themoviedb.org/3/movies/get-popular-movies) para exibir os filmes populares, [GET IMAGES](https://developers.themoviedb.org/3/movies/get-movie-images) 
 para exibir as imagens de poster dos filmes, [GET DETAILS](https://developers.themoviedb.org/3/movies/get-movie-details) para exibir os detalhes, além do título e avalição de cada filme.
 
+# Config
+Para as requisições do app funcionarem é preciso cadastrar-se no site [The Movie Data Base API]() para obter a chave de API e substituir a constante _(API_KEY)_ na classe Credencials. 
+
 # Development Roadmap
 - [x] [Java](https://www.java.com/pt-BR/)
 - [x] [The Movie Database API](https://www.themoviedb.org/documentation/api)
