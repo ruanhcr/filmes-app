@@ -20,3 +20,9 @@ Para as requisições do app funcionarem é preciso cadastrar-se no site [The Mo
 
 # Screenshot
 <br>![exemplo](https://media1.giphy.com/media/ATUmVRsVIm5l1lwCZY/giphy.gif?cid=790b7611ae5c75cc2cd28d5a18a77422a2b9130a99853cfd&rid=giphy.gif&ct=g)
+
+# TO DO
+Este projeto está em andamento, sendo necessário adicionar:
+- [x] Testes unitários
+- [x] Testes de Instrumentação
+- [x] CI/CD
